@@ -1,7 +1,7 @@
 <p align="center">
 👋 Hi, I’m @chainski
 <p align="center">
-👀 I’m interested in C#
+👀 I’m interested in GoLang
 <p align="center">
 🌱 I’m currently learning Python
 <h3>
