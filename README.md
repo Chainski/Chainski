@@ -18,4 +18,7 @@ sᴏᴄɪᴀʟ ɴᴇᴛᴡᴏʀᴋs
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chainski&theme=radical" />
 <br></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chainski&show_icons=true&theme=radical" />
+<br/>
+<br/>
+<a href="https://github.com/chainski/github-readme-activity-graph"><img alt="Chainski's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chainski&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
