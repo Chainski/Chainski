@@ -1,5 +1,5 @@
 <p align="center">
-👋 Hi, I’m @Chainski
+👋 Hi, I’m Chainski
 <p align="center">
 👀 I’m interested in GoLang
 <p align="center">
