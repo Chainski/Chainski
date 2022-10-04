@@ -14,6 +14,8 @@ sᴏᴄɪᴀʟ ɴᴇᴛᴡᴏʀᴋs
 <a href="https://chinotechtips.blogspot.com"><img src="https://img.shields.io/badge/-BLOGGER-orange"></a>
 <p align="center"> <a href="https://www.pinterest.com/chinotechtips325"><img src="https://img.shields.io/badge/-PINTEREST-red"></a>
 <a href="https://t.me/chinotech"><img src="https://img.shields.io/badge/-TELEGRAM-blue"></a>
+<a href="https://odysee.com/@chinotechtips"><img src="https://img.shields.io/badge/odysee-videos-red"></a>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chainski&theme=radical" />
 <br></br>
