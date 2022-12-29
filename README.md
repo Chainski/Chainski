@@ -10,10 +10,10 @@ sᴏᴄɪᴀʟ ɴᴇᴛᴡᴏʀᴋs
 <a href="https://odysee.com/@chinotechtips"><img src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white"></a>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chainski&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chainski&theme=dark" />
 <br></br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chainski&show_icons=true&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chainski&show_icons=true&theme=dark" />
 <br/>
 <br/>
-<a href="https://github.com/chainski/github-readme-activity-graph"><img alt="Chainski's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Chainski&theme=react-dark" /></a>
+<a href="https://github.com/chainski/github-readme-activity-graph"><img alt="Chainski's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Chainski&theme=react" /></a>
 </p>
