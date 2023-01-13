@@ -14,5 +14,7 @@ sᴏᴄɪᴀʟ ɴᴇᴛᴡᴏʀᴋs
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chainski&show_icons=true&theme=dark" />
 <br/>
 <br/>
-<a href="https://github.com/chainski/github-readme-activity-graph"><img alt="Chainski's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Chainski&theme=react" /></a>
+<p align="center">
+  <img width="1000" height="400" src="https://github.com/chainski/chainski/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
+
