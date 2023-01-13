@@ -12,7 +12,4 @@ sᴏᴄɪᴀʟ ɴᴇᴛᴡᴏʀᴋs
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chainski&theme=dark" />
 <br></br>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chainski&show_icons=true&theme=dark" />
-<p align="center">
-  <img width="900" height="500" src="https://github.com/chainski/chainski/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-</p>
 
