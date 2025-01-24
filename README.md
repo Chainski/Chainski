@@ -13,9 +13,3 @@ sᴏᴄɪᴀʟ ɴᴇᴛᴡᴏʀᴋs
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chainski&theme=dark" />
 <br></br>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chainski&show_icons=true&theme=dark" />
-<br></br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=chainski&theme=onedark" />
-
-
-
-
