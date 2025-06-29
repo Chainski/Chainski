@@ -10,6 +10,6 @@ sᴏᴄɪᴀʟ ɴᴇᴛᴡᴏʀᴋs
 <p align="center"> 
 <a href="https://odysee.com/@chinotechtips"><img src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white"></a>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chainski&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chainski&count_private=true&show_icons=true&theme=dark" />
 <br></br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chainski&hide=php&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chainski&hide=php&theme=dark" />
